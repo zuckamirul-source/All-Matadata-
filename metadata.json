@@ -1,0 +1,11 @@
+{
+  "name": "ALL METADETA",
+  "description": "Professional AI Metadata Engine for Stock Photographers. One-click neural reconstruction for Adobe Stock, Shutterstock, and Freepik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Neural Image Analysis",
+    "Stock SEO Optimization",
+    "Multi-Platform Sync",
+    "Parallel Batch Processing"
+  ]
+}
